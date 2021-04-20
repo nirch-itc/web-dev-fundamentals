@@ -80,6 +80,7 @@ As the program progresses, you will focus on specific parts of these topics and 
     -- One example: Prettier Code Formatter auto formats your code so that it's organized and easy to read   
     -- Install it  
     -- In VS Code settings, search for "format" and choose "format on save"  
+    -- In VS Code settings, serach for "default formatter" and make sure to choose Prettier as your default formatter  
   - Folder Structures and File Paths  
     -- Example of HTML, CSS, JS [folder structure](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)  
     -- [File paths](https://www.w3schools.com/html/html_filepaths.asp)   
